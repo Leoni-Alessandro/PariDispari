@@ -6,3 +6,18 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+
+.title{
+    margin-bottom: 50px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
